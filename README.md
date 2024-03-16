@@ -1,6 +1,9 @@
+## Preview of the project 
+
+![view](https://github.com/safoan/next_chakra/assets/49201059/1bf1b64a-e165-4546-9ca1-f1ba32c624a1)
+
 ## the tech stack 
 nextjs , ChakraUI , React , tailwind
-
 
 ## steps for building this project 
 
@@ -11,7 +14,6 @@ nextjs , ChakraUI , React , tailwind
 - create the component folders
 - get the blooks you want from chakraUI template website 
 - modify and adjust as you want 
-
 
 ## Getting Started
 
